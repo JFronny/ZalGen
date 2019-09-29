@@ -7,7 +7,7 @@
     <ProjectGuid>{5F66EB15-54FD-4B45-92E7-EDA1070D867F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Zalgen</RootNamespace>
-    <AssemblyName>Zalgen</AssemblyName>
+    <AssemblyName>ZalGen</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
