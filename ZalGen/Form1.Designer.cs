@@ -1,11 +1,14 @@
-﻿namespace Zalgen
+﻿using System.ComponentModel;
+using System.Windows.Forms;
+
+namespace Zalgen
 {
     partial class Form1
     {
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        private IContainer components = null;
 
         /// <summary>
         /// Clean up any resources being used.
@@ -167,15 +170,15 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox text;
-        private System.Windows.Forms.Button run;
-        private System.Windows.Forms.Panel controlPanel;
-        private System.Windows.Forms.CheckBox fuck_down;
-        private System.Windows.Forms.CheckBox fuck_up;
-        private System.Windows.Forms.CheckBox fuck_mid;
-        private System.Windows.Forms.Button refSheet;
-        private System.Windows.Forms.TrackBar strengthBar;
-        private System.Windows.Forms.Label strengthLabel;
+        private TextBox text;
+        private Button run;
+        private Panel controlPanel;
+        private CheckBox fuck_down;
+        private CheckBox fuck_up;
+        private CheckBox fuck_mid;
+        private Button refSheet;
+        private TrackBar strengthBar;
+        private Label strengthLabel;
     }
 }
 
